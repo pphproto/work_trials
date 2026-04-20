@@ -3,7 +3,7 @@
 **Duration:** 3-5 days (early submissions are viewed favorably)
 
 ---
-© Floto Inc 2025
+© Floto Inc 2026
 
 ## What to Build
 
@@ -29,7 +29,7 @@ Build an AI-powered tool that analyzes product/service information from a URL an
 - Next.js for frontend/API
 - TypeScript
 - LangChain/LangGraph for AI orchestration
-- Gemini 2.5 Flash for LLM (no need to share API keys in submission)
+- Gemini 3.0 Flash for LLM (no need to share API keys in submission)
 
 ## Submission
 
@@ -39,6 +39,7 @@ Build an AI-powered tool that analyzes product/service information from a URL an
    - high level design
    - any instructions to run
    - what issues you forsee which needs to be taken care of in the productionised version of the tool
-4. **If you used AI tools** (Claude, Cursor, GitHub Copilot, ChatGPT, etc.), export and include your chat history so we can evaluate the prompts used to generate code
+4. **Record a Loom** walking through the working tool — enter a URL, show the generated personas, and narrate what's happening
+5. **If you used AI tools** (Claude, Cursor, GitHub Copilot, ChatGPT, etc.), export and include your chat history so we can evaluate the prompts used to generate code
 
 **Note:** We highly recommend using AI copilots (Claude, Cursor, GitHub Copilot, ChatGPT, etc.) to complete this trial efficiently. If you're unable to complete the implementation, you can still submit your work. In your `NOTES.md`, document what you attempted, what worked, what didn't, and why. We evaluate based on effort, problem-solving approach, and the progress you made—not just the final outcome.
